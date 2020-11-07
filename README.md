@@ -1,1 +1,1 @@
-# FlappyBirdSeftPhysics
+# Flappy Bird clone do not using physics of UnityEngine
